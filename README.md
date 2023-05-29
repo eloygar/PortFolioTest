@@ -1,8 +1,9 @@
 # Eloy Garcia Portfolio
 
 ## Screenshots
-
-![Screenshot](https://github.com/arasgungore/arasgungore.github.io/blob/main/Screenshots/1.png)
+<p float="center">
+    <img src="https://github.com/eloygar/PortFolioTest/blob/master/Screenshots/1.png" width="800">
+</p>
 
 ## Author
 
